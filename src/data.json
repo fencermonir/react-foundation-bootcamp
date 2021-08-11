@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "first_name": "Sadella",
+    "last_name": "Swyer",
+    "email": "sswyer0@wordpress.org",
+    "gender": "Male",
+    "picture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "dob": "10/09/1973"
+  },
+  {
+    "id": 2,
+    "first_name": "Brita",
+    "last_name": "Patrickson",
+    "email": "bpatrickson1@ca.gov",
+    "gender": "Female",
+    "picture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "dob": "12/07/1995"
+  },
+  {
+    "id": 3,
+    "first_name": "Kennedy",
+    "last_name": "Iacovides",
+    "email": "kiacovides2@biblegateway.com",
+    "gender": "Female",
+    "picture": "https://randomuser.me/api/portraits/women/3.jpg",
+    "dob": "19/02/1996"
+  },
+  {
+    "id": 4,
+    "first_name": "Scarlet",
+    "last_name": "Mourbey",
+    "email": "smourbey3@toplist.cz",
+    "gender": "Male",
+    "picture": "https://randomuser.me/api/portraits/men/4.jpg",
+    "dob": "27/10/1998"
+  },
+  {
+    "id": 5,
+    "first_name": "Gwennie",
+    "last_name": "Rewcassell",
+    "email": "grewcassell4@1und1.de",
+    "gender": "Male",
+    "picture": "https://randomuser.me/api/portraits/men/5.jpg",
+    "dob": "05/09/1998"
+  },
+  {
+    "id": 6,
+    "first_name": "Wain",
+    "last_name": "Antczak",
+    "email": "wantczak5@amazon.co.jp",
+    "gender": "Female",
+    "picture": "https://randomuser.me/api/portraits/women/6.jpg",
+    "dob": "03/10/1977"
+  },
+  {
+    "id": 7,
+    "first_name": "Ritchie",
+    "last_name": "Forsdike",
+    "email": "rforsdike6@reference.com",
+    "gender": "Female",
+    "picture": "https://randomuser.me/api/portraits/women/7.jpg",
+    "dob": "27/09/1982"
+  },
+  {
+    "id": 8,
+    "first_name": "Theodore",
+    "last_name": "Ffrench",
+    "email": "tffrench7@github.com",
+    "gender": "Male",
+    "picture": "https://randomuser.me/api/portraits/men/8.jpg",
+    "dob": "09/10/1996"
+  },
+  {
+    "id": 9,
+    "first_name": "Archibaldo",
+    "last_name": "Tellenbrook",
+    "email": "atellenbrook8@pcworld.com",
+    "gender": "Female",
+    "picture": "https://randomuser.me/api/portraits/women/9.jpg",
+    "dob": "06/12/1979"
+  },
+  {
+    "id": 10,
+    "first_name": "Sigfrid",
+    "last_name": "Cullip",
+    "email": "scullip9@google.com.hk",
+    "gender": "Female",
+    "picture": "https://randomuser.me/api/portraits/women/10.jpg",
+    "dob": "20/08/1991"
+  }
+]

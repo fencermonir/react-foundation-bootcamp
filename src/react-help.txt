@@ -1,0 +1,64 @@
+contact Manager
+C-CREATE
+R-READ
+U-UPDATE
+D-DELETE
+
+
+1.How to write component
+   -Functional
+   -Class
+2.Props - property(html property)-JSX(not mutable)
+3.state - can be modified 
+4.composition (Multiple component combined to One)
+5.unidirectional data flow(parent to child)
+   -child data should be modified from parent(data container component)    
+
+
+sendEmail()
+ //100 line code(Divide into multiple)
+single responsibility principal
+single responsibility - complex code
+
+How component should be divided
+ -Reuse (function)
+ -complex UI (Divide into component)
+
+-Easy Rules
+  1) same look but different content
+  2) complex UI(so many things together)
+
+
+Facebook (page)
+  -Navigation(complex UI)
+    - searchComponent
+    - mainNavigation
+    -secondaryNavigation
+  -sidebar
+   -Admin
+   -Insights
+   -support
+  -main content
+   -main Banner
+   -Group Info
+   -media 
+   -posts
+    -post(same look content different)
+
+
+
+Contact APP
+========================
+
+Navigation
+Home page/contact page
+ contacts 
+   contact
+
+About page 
+
+contact Details
+
+//inline styles
+//global style
+//locally scoped style (component specific)
