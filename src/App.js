@@ -20,7 +20,7 @@ export default class App extends Component {
         'https://randomuser.me/api/?seed=myrandomdata&inc=name,email,login,gender,dob,picture&results=10'
       )
       .then(data => {
-        console.log(data.data.results)
+        // console.log(data.data.results)
         this.setState({
           contacts: data.data.results
         })
@@ -40,7 +40,7 @@ export default class App extends Component {
               <Home />
             </Route>
             <Route path="/contacts/:id">
-              <ContactDetails contacts={contacts} />
+              <ContactDetails />
             </Route>
             <Route path="/contacts">
               <Contacts contacts={contacts} />

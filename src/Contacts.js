@@ -8,7 +8,7 @@ export default class Contacts extends Component {
     const { contacts } = this.props
     return (
       <div>
-        <h2 className='text-center mb-3 mt-3'>All  goes here</h2>
+        <h2 className='text-center mb-3 mt-3'>All goes here</h2>
         {contacts.map(contact => (
           <Contact contact={contact} key={contact.login.uuid} />
         ))}
